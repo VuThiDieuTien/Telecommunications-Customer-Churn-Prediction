@@ -1,0 +1,37 @@
+feature,importance
+Contract_Two Year,0.19771084
+Contract_One Year,0.14900202
+Tenure in Months,0.14619657
+Number of Referrals,0.06447635
+Number of Dependents,0.052870188
+Payment Method_Credit Card,0.034547452
+Monthly Charge,0.0326256
+Streaming Music_Yes,0.023800297
+Age,0.022689387
+Paperless Billing_Yes,0.021470295
+Online Security_Yes,0.020823933
+Premium Tech Support_Yes,0.017047444
+Unlimited Data_Yes,0.016200723
+Married_Yes,0.015982931
+Internet Type_DSL,0.012574079
+Total Revenue,0.012402743
+Avg Monthly GB Download,0.012383106
+Streaming TV_Yes,0.010906012
+Offer_Offer E,0.010572451
+Offer_Offer B,0.010250172
+Total Charges,0.010081625
+Online Backup_Yes,0.010073985
+Total Long Distance Charges,0.010036603
+Payment Method_Mailed Check,0.010014494
+Internet Type_Fiber Optic,0.00997164
+Offer_Offer D,0.009689901
+Device Protection Plan_Yes,0.009598439
+Multiple Lines_Yes,0.008888596
+Streaming Movies_Yes,0.008792728
+Avg Monthly Long Distance Charges,0.007882063
+Gender_Male,0.0059480346
+Total Refunds,0.0055414424
+Total Extra Data Charges,0.0046283132
+Offer_Offer C,0.0043196287
+Internet Service_Yes,0.0
+Phone Service_Yes,0.0
